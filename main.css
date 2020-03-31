@@ -1,0 +1,161 @@
+body {
+       
+        background-image: url(images/imgsignin.jpg);
+        background-size: cover;
+        border: 2px;       
+}
+.topnav {
+        text-align: center;
+        list-style: none;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: lighter;
+        font-weight: bolder;
+        text-size-adjust: 50px;
+        font-family: 'Indie flower' ;
+        padding: 0.5px;
+        padding-top: 15px;
+        flex: auto;
+        color: black;
+        background-color: rgb(255, 79, 111);
+        color: #fff;
+
+}
+
+h1 {
+        text-align: center;
+        font-style: normal;
+        font-family: 'Indie flower' ;
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+}
+
+p {
+        text-align: center;
+        font-family: 'Indie flower' ;
+        text-size-adjust: 10px;
+        text-emphasis-color: white;
+        color: white;
+
+}    
+p:hover {
+        color: rgb(255, 79, 111);
+
+}
+.input-field:hover {
+        background-color: black;
+
+}
+#buttonid:hover {
+        background-color: black;
+}
+h4 {
+        text-align: center;
+        font-family: sans-serif;
+        font-family: 'Indie flower' ;
+        text-decoration-color: white;
+        font-size: 20px;
+        color: white;
+
+}
+
+.submitbutton {
+        text-align: center;
+        font-family: 'Indie flower' ;
+}
+
+.input-field {
+        width: 300px;
+        height: 20px;
+        padding: 2px;
+        font-family: 'Indie flower';
+        font-size: larger;
+        font-weight: 400;
+}
+
+#buttonid {
+        width: 400px;
+        height: 50px;
+        color:white;
+        background-color: rgb(255, 79, 111);
+}
+a {
+        color: black;
+
+}
+a:link {
+        color: white;
+        background-color:rgb(255, 79, 111);
+
+}
+a:hover {
+        color: white;
+
+}
+
+#links {
+        background-color:transparent;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        font-family: 'Indie Flower';
+        font-weight: bolder;
+        justify-content: center;
+
+}
+#navbar{
+        background-color:rgb(255, 217, 197);
+        color:#fff;
+        padding:10;
+}
+    
+#navbar1{
+        background-color:rgb(255, 79, 111);
+        color:#fff;
+        list-style: none;
+        text-align: center;
+        padding: 0.5px;
+        padding-top: 15px;
+}
+
+#navbar1 ul li{
+        display:inline-block;
+        padding-right: 70px;
+}
+    
+#navbar1 a{
+        color:#fff;
+        text-decoration: none;
+        font-size:19px;
+        padding-right:10px;
+    
+}
+
+
+body{
+        background-color:#ffffff;
+        color:#555;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:16px;
+        line-height:1.6em;
+        margin:0;
+}
+    
+.container{
+        width:100%;
+        margin:auto;
+        overflow:hidden;
+}
+
+.search {
+
+        justify-content: flex-end;
+        padding: 5px;
+
+}
+
+.button1 {
+        justify-content: flex-end;
+        padding: 5px;
+}
